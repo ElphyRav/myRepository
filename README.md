@@ -1,3 +1,3 @@
 # myRepository
 cretaing responsive java pages
-that will be linked with the database.
+that will run on the web server connected to the database
